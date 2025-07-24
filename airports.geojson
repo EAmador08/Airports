@@ -1,0 +1,3659 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.580001831,
+                    53.3097000122
+                ]
+            },
+            "properties": {
+                "name": "Edmonton International Airport",
+                "city": "Edmonton",
+                "country": "Canada",
+                "iata": "YEG",
+                "icao": "CYEG",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.5085983276,
+                    44.8807983398
+                ]
+            },
+            "properties": {
+                "name": "Halifax / Stanfield International Airport",
+                "city": "Halifax",
+                "country": "Canada",
+                "iata": "YHZ",
+                "icao": "CYHZ",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0386962891,
+                    45.6795005798
+                ]
+            },
+            "properties": {
+                "name": "Montreal International (Mirabel) Airport",
+                "city": "Montreal",
+                "country": "Canada",
+                "iata": "YMX",
+                "icao": "CYMX",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6691970825,
+                    45.3224983215
+                ]
+            },
+            "properties": {
+                "name": "Ottawa Macdonald-Cartier International Airport",
+                "city": "Ottawa",
+                "country": "Canada",
+                "iata": "YOW",
+                "icao": "CYOW",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.6785964966,
+                    46.1122016907
+                ]
+            },
+            "properties": {
+                "name": "Greater Moncton International Airport",
+                "city": "Moncton",
+                "country": "Canada",
+                "iata": "YQM",
+                "icao": "CYQM",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.183998108,
+                    49.193901062
+                ]
+            },
+            "properties": {
+                "name": "Vancouver International Airport",
+                "city": "Vancouver",
+                "country": "Canada",
+                "iata": "YVR",
+                "icao": "CYVR",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2398986816,
+                    49.9099998474
+                ]
+            },
+            "properties": {
+                "name": "Winnipeg / James Armstrong Richardson International Airport",
+                "city": "Winnipeg",
+                "country": "Canada",
+                "iata": "YWG",
+                "icao": "CYWG",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.019996643,
+                    51.113899231
+                ]
+            },
+            "properties": {
+                "name": "Calgary International Airport",
+                "city": "Calgary",
+                "country": "Canada",
+                "iata": "YYC",
+                "icao": "CYYC",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6305999756,
+                    43.6772003174
+                ]
+            },
+            "properties": {
+                "name": "Lester B. Pearson International Airport",
+                "city": "Toronto",
+                "country": "Canada",
+                "iata": "YYZ",
+                "icao": "CYYZ",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4432201385,
+                    50.6374015808
+                ]
+            },
+            "properties": {
+                "name": "Li\u00e8ge Airport",
+                "city": "Liege",
+                "country": "Belgium",
+                "iata": "LGG",
+                "icao": "EBLG",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5225000381,
+                    52.3800010681
+                ]
+            },
+            "properties": {
+                "name": "Berlin-Sch\u00f6nefeld International Airport",
+                "city": "Berlin",
+                "country": "Germany",
+                "iata": "SXF",
+                "icao": "EDDB",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9581003189,
+                    50.979801178
+                ]
+            },
+            "properties": {
+                "name": "Erfurt Airport",
+                "city": "Erfurt",
+                "country": "Germany",
+                "iata": "ERF",
+                "icao": "EDDE",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1427397728,
+                    50.8658981323
+                ]
+            },
+            "properties": {
+                "name": "Cologne Bonn Airport",
+                "city": "Cologne",
+                "country": "Germany",
+                "iata": "CGN",
+                "icao": "EDDK",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7861003876,
+                    48.3538017273
+                ]
+            },
+            "properties": {
+                "name": "Munich International Airport",
+                "city": "Munich",
+                "country": "Germany",
+                "iata": "MUC",
+                "icao": "EDDM",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6850795746,
+                    52.461101532
+                ]
+            },
+            "properties": {
+                "name": "Hannover Airport",
+                "city": "Hannover",
+                "country": "Germany",
+                "iata": "HAJ",
+                "icao": "EDDV",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.963300705,
+                    60.317199707
+                ]
+            },
+            "properties": {
+                "name": "Helsinki Vantaa Airport",
+                "city": "Helsinki",
+                "country": "Finland",
+                "iata": "HEL",
+                "icao": "EFHK",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7480299473,
+                    52.4538993835
+                ]
+            },
+            "properties": {
+                "name": "Birmingham International Airport",
+                "city": "Birmingham",
+                "country": "United Kingdom",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3280600309,
+                    52.8311004639
+                ]
+            },
+            "properties": {
+                "name": "East Midlands Airport",
+                "city": "East Midlands",
+                "country": "United Kingdom",
+                "iata": "EMA",
+                "icao": "EGNX",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2349999994,
+                    51.8849983215
+                ]
+            },
+            "properties": {
+                "name": "London Stansted Airport",
+                "city": "London",
+                "country": "United Kingdom",
+                "iata": "STN",
+                "icao": "EGSS",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7638897896,
+                    52.3086013794
+                ]
+            },
+            "properties": {
+                "name": "Amsterdam Airport Schiphol",
+                "city": "Amsterdam",
+                "country": "Netherlands",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.270070076,
+                    53.4212989807
+                ]
+            },
+            "properties": {
+                "name": "Dublin Airport",
+                "city": "Dublin",
+                "country": "Ireland",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6560001373,
+                    55.6179008484
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Kastrup Airport",
+                "city": "Copenhagen",
+                "country": "Denmark",
+                "iata": "CPH",
+                "icao": "EKCH",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9239998,
+                    63.4578018
+                ]
+            },
+            "properties": {
+                "name": "Trondheim Airport V\u00e6rnes",
+                "city": "Trondheim",
+                "country": "Norway",
+                "iata": "TRD",
+                "icao": "ENVA",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08,
+                    50.4743
+                ]
+            },
+            "properties": {
+                "name": "Katowice International Airport",
+                "city": "Katowice",
+                "country": "Poland",
+                "iata": "KTW",
+                "icao": "EPKT",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9671001434,
+                    52.1656990051
+                ]
+            },
+            "properties": {
+                "name": "Warsaw Chopin Airport",
+                "city": "Warsaw",
+                "country": "Poland",
+                "iata": "WAW",
+                "icao": "EPWA",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.279800415,
+                    57.6627998352
+                ]
+            },
+            "properties": {
+                "name": "Gothenburg-Landvetter Airport",
+                "city": "Gothenborg",
+                "country": "Sweden",
+                "iata": "GOT",
+                "icao": "ESGG",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3761978149,
+                    55.536305364
+                ]
+            },
+            "properties": {
+                "name": "Malm\u00f6 Sturup Airport",
+                "city": "Malmoe",
+                "country": "Sweden",
+                "iata": "MMX",
+                "icao": "ESMS",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9186000824,
+                    59.6519012451
+                ]
+            },
+            "properties": {
+                "name": "Stockholm-Arlanda Airport",
+                "city": "Stockholm",
+                "country": "Sweden",
+                "iata": "ARN",
+                "icao": "ESSA",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.246,
+                    -26.1392
+                ]
+            },
+            "properties": {
+                "name": "OR Tambo International Airport",
+                "city": "Johannesburg",
+                "country": "South Africa",
+                "iata": "JNB",
+                "icao": "FAJS",
+                "region": "Africa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4114360809,
+                    42.6966934204
+                ]
+            },
+            "properties": {
+                "name": "Sofia Airport",
+                "city": "Sofia",
+                "country": "Bulgaria",
+                "iata": "SOF",
+                "icao": "LBSF",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0784599781,
+                    41.2971000671
+                ]
+            },
+            "properties": {
+                "name": "Barcelona International Airport",
+                "city": "Barcelona",
+                "country": "Spain",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.56264,
+                    40.471926
+                ]
+            },
+            "properties": {
+                "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+                "city": "Madrid",
+                "country": "Spain",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7244699001,
+                    42.8828010559
+                ]
+            },
+            "properties": {
+                "name": "Vitoria/Foronda Airport",
+                "city": "Vitoria",
+                "country": "Spain",
+                "iata": "VIT",
+                "icao": "LEVT",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.36382,
+                    43.629101
+                ]
+            },
+            "properties": {
+                "name": "Toulouse-Blagnac Airport",
+                "city": "Toulouse",
+                "country": "France",
+                "iata": "TLS",
+                "icao": "LFBO",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0811111,
+                    45.7255556
+                ]
+            },
+            "properties": {
+                "name": "Lyon Saint-Exup\u00e9ry Airport",
+                "city": "Lyon",
+                "country": "France",
+                "iata": "LYS",
+                "icao": "LFLL",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5499999523,
+                    49.0127983093
+                ]
+            },
+            "properties": {
+                "name": "Charles de Gaulle International Airport",
+                "city": "Paris",
+                "country": "France",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5291667,
+                    47.59
+                ]
+            },
+            "properties": {
+                "name": "EuroAirport Basel-Mulhouse-Freiburg Airport",
+                "city": "Mulhouse",
+                "country": "France",
+                "iata": "BSL",
+                "icao": "LFSB",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2555999756,
+                    47.4369010925
+                ]
+            },
+            "properties": {
+                "name": "Budapest Ferenc Liszt International Airport",
+                "city": "Budapest",
+                "country": "Hungary",
+                "iata": "BUD",
+                "icao": "LHBP",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9224,
+                    37.401699
+                ]
+            },
+            "properties": {
+                "name": "Sigonella Navy Air Base",
+                "city": "Sigonella",
+                "country": "Italy",
+                "iata": "NSY",
+                "icao": "LICZ",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.72811,
+                    45.6306
+                ]
+            },
+            "properties": {
+                "name": "Malpensa International Airport",
+                "city": "Milano",
+                "country": "Italy",
+                "iata": "MXP",
+                "icao": "LIMC",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2887,
+                    44.5354
+                ]
+            },
+            "properties": {
+                "name": "Bologna Guglielmo Marconi Airport",
+                "city": "Bologna",
+                "country": "Italy",
+                "iata": "BLQ",
+                "icao": "LIPE",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3519,
+                    45.505299
+                ]
+            },
+            "properties": {
+                "name": "Venice Marco Polo Airport",
+                "city": "Venice",
+                "country": "Italy",
+                "iata": "VCE",
+                "icao": "LIPZ",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5949,
+                    41.7994
+                ]
+            },
+            "properties": {
+                "name": "Ciampino\u2013G. B. Pastine International Airport",
+                "city": "Rome",
+                "country": "Italy",
+                "iata": "CIA",
+                "icao": "LIRA",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4576,
+                    46.223701
+                ]
+            },
+            "properties": {
+                "name": "Ljubljana Jo\u017ee Pu\u010dnik Airport",
+                "city": "Ljubljana",
+                "country": "Slovenia",
+                "iata": "LJU",
+                "icao": "LJLJ",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8866996765,
+                    32.0113983154
+                ]
+            },
+            "properties": {
+                "name": "Ben Gurion International Airport",
+                "city": "Tel-aviv",
+                "country": "Israel",
+                "iata": "TLV",
+                "icao": "LLBG",
+                "region": "Middle East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5697002411,
+                    48.1102981567
+                ]
+            },
+            "properties": {
+                "name": "Vienna International Airport",
+                "city": "Vienna",
+                "country": "Austria",
+                "iata": "VIE",
+                "icao": "LOWW",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6813898086,
+                    41.2481002808
+                ]
+            },
+            "properties": {
+                "name": "Francisco de S\u00e1 Carneiro Airport",
+                "city": "Porto",
+                "country": "Portugal",
+                "iata": "OPO",
+                "icao": "LPPR",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.085,
+                    44.5711111
+                ]
+            },
+            "properties": {
+                "name": "Henri Coand\u0103 International Airport",
+                "city": "Bucharest",
+                "country": "Romania",
+                "iata": "OTP",
+                "icao": "LROP",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8145999908,
+                    40.9768981934
+                ]
+            },
+            "properties": {
+                "name": "Atat\u00fcrk International Airport",
+                "city": "Istanbul",
+                "country": "Turkey",
+                "iata": "IST",
+                "icao": "LTBA",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.6688995361,
+                    18.4297008514
+                ]
+            },
+            "properties": {
+                "name": "Las Am\u00e9ricas International Airport",
+                "city": "Santo Domingo",
+                "country": "Dominican Republic",
+                "iata": "SDQ",
+                "icao": "MDSD",
+                "region": "Caribbean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.072098,
+                    19.4363
+                ]
+            },
+            "properties": {
+                "name": "Licenciado Benito Juarez International Airport",
+                "city": "Mexico City",
+                "country": "Mexico",
+                "iata": "MEX",
+                "icao": "MMMX",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.107002258,
+                    25.7784996033
+                ]
+            },
+            "properties": {
+                "name": "General Mariano Escobedo International Airport",
+                "city": "Monterrey",
+                "country": "Mexico",
+                "iata": "MTY",
+                "icao": "MMMY",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.185997009,
+                    20.6173000336
+                ]
+            },
+            "properties": {
+                "name": "Quer\u00e9taro Intercontinental Airport",
+                "city": "Queretaro",
+                "country": "Mexico",
+                "iata": "QRO",
+                "icao": "MMQT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9700012207,
+                    32.5410995483
+                ]
+            },
+            "properties": {
+                "name": "General Abelardo L. Rodr\u00edguez International Airport",
+                "city": "Tijuana",
+                "country": "Mexico",
+                "iata": "TIJ",
+                "icao": "MMTJ",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3834991455,
+                    9.0713596344
+                ]
+            },
+            "properties": {
+                "name": "Tocumen International Airport",
+                "city": "Panama City",
+                "country": "Panama",
+                "iata": "PTY",
+                "icao": "MPTO",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2088012695,
+                    9.9938602448
+                ]
+            },
+            "properties": {
+                "name": "Juan Santamaria International Airport",
+                "city": "San Jose",
+                "country": "Costa Rica",
+                "iata": "SJO",
+                "icao": "MROC",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.055702,
+                    13.4409
+                ]
+            },
+            "properties": {
+                "name": "El Salvador International Airport",
+                "city": "San Salvador",
+                "country": "El Salvador",
+                "iata": "SAL",
+                "icao": "MSLP",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.792007446,
+                    -37.0080986023
+                ]
+            },
+            "properties": {
+                "name": "Auckland International Airport",
+                "city": "Auckland",
+                "country": "New Zealand",
+                "iata": "AKL",
+                "icao": "NZAA",
+                "region": "Pacific"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.6335983276,
+                    26.2707996368
+                ]
+            },
+            "properties": {
+                "name": "Bahrain International Airport",
+                "city": "Bahrain",
+                "country": "Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "region": "Middle East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3643989563,
+                    25.2527999878
+                ]
+            },
+            "properties": {
+                "name": "Dubai International Airport",
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "iata": "DXB",
+                "icao": "OMDB",
+                "region": "Middle East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.386001587,
+                    35.7647018433
+                ]
+            },
+            "properties": {
+                "name": "Narita International Airport",
+                "city": "Tokyo",
+                "country": "Japan",
+                "iata": "NRT",
+                "icao": "RJAA",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.019997,
+                    14.5086
+                ]
+            },
+            "properties": {
+                "name": "Ninoy Aquino International Airport",
+                "city": "Manila",
+                "country": "Philippines",
+                "iata": "MNL",
+                "icao": "RPLL",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9719429016,
+                    -19.6244430542
+                ]
+            },
+            "properties": {
+                "name": "Tancredo Neves International Airport",
+                "city": "Belo Horizonte",
+                "country": "Brazil",
+                "iata": "CNF",
+                "icao": "SBCF",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1344985962,
+                    -23.0074005127
+                ]
+            },
+            "properties": {
+                "name": "Viracopos International Airport",
+                "city": "Campinas",
+                "country": "Brazil",
+                "iata": "VCP",
+                "icao": "SBKP",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.3575,
+                    -0.1291666667
+                ]
+            },
+            "properties": {
+                "name": "Mariscal Sucre International Airport",
+                "city": "Quito",
+                "country": "Ecuador",
+                "iata": "UIO",
+                "icao": "SEQM",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1469,
+                    4.70159
+                ]
+            },
+            "properties": {
+                "name": "El Dorado International Airport",
+                "city": "Bogota",
+                "country": "Colombia",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4231,
+                    6.16454
+                ]
+            },
+            "properties": {
+                "name": "Jose Maria C\u00f3rdova International Airport",
+                "city": "Rio Negro",
+                "country": "Colombia",
+                "iata": "MDE",
+                "icao": "SKRG",
+                "region": "Central & South America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.1294021606,
+                    18.4948997498
+                ]
+            },
+            "properties": {
+                "name": "Rafael Hernandez Airport",
+                "city": "Aguadilla",
+                "country": "Puerto Rico",
+                "iata": "BQN",
+                "icao": "TJBQ",
+                "region": "Caribbean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.0018005371,
+                    18.4393997192
+                ]
+            },
+            "properties": {
+                "name": "Luis Munoz Marin International Airport",
+                "city": "San Juan",
+                "country": "Puerto Rico",
+                "iata": "SJU",
+                "icao": "TJSJ",
+                "region": "Caribbean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8678970337,
+                    19.0886993408
+                ]
+            },
+            "properties": {
+                "name": "Chhatrapati Shivaji International Airport",
+                "city": "Mumbai",
+                "country": "India",
+                "iata": "BOM",
+                "icao": "VABB",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.1031036377,
+                    28.5664997101
+                ]
+            },
+            "properties": {
+                "name": "Indira Gandhi International Airport",
+                "city": "Delhi",
+                "country": "India",
+                "iata": "DEL",
+                "icao": "VIDP",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8069992065,
+                    21.221200943
+                ]
+            },
+            "properties": {
+                "name": "Noi Bai International Airport",
+                "city": "Hanoi",
+                "country": "Vietnam",
+                "iata": "HAN",
+                "icao": "VVNB",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.652000427,
+                    10.8187999725
+                ]
+            },
+            "properties": {
+                "name": "Tan Son Nhat International Airport",
+                "city": "Ho Chi Minh City",
+                "country": "Vietnam",
+                "iata": "SGN",
+                "icao": "VVTS",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7099990845,
+                    2.745579958
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lumpur International Airport",
+                "city": "Kuala Lumpur",
+                "country": "Malaysia",
+                "iata": "KUL",
+                "icao": "WMKK",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.2770004272,
+                    5.2971401215
+                ]
+            },
+            "properties": {
+                "name": "Penang International Airport",
+                "city": "Penang",
+                "country": "Malaysia",
+                "iata": "PEN",
+                "icao": "WMKP",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.994003,
+                    1.35019
+                ]
+            },
+            "properties": {
+                "name": "Singapore Changi Airport",
+                "city": "Singapore",
+                "country": "Singapore",
+                "iata": "SIN",
+                "icao": "WSSS",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1770019531,
+                    -33.9460983276
+                ]
+            },
+            "properties": {
+                "name": "Sydney Kingsford Smith International Airport",
+                "city": "Sydney",
+                "country": "Australia",
+                "iata": "SYD",
+                "icao": "YSSY",
+                "region": "Pacific"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.5849990845,
+                    40.0801010132
+                ]
+            },
+            "properties": {
+                "name": "Beijing Capital International Airport",
+                "city": "Beijing",
+                "country": "China",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2990036011,
+                    23.3924007416
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Baiyun International Airport",
+                "city": "Guangzhou",
+                "country": "China",
+                "iata": "CAN",
+                "icao": "ZGGG",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8050003052,
+                    31.1434001923
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Pudong International Airport",
+                "city": "Shanghai",
+                "country": "China",
+                "iata": "PVG",
+                "icao": "ZSPD",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.00520325,
+                    42.36429977
+                ]
+            },
+            "properties": {
+                "name": "General Edward Lawrence Logan International Airport",
+                "city": "Boston",
+                "country": "United States",
+                "iata": "BOS",
+                "icao": "KBOS",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0680999756,
+                    30.6268005371
+                ]
+            },
+            "properties": {
+                "name": "Mobile Downtown Airport",
+                "city": "Mobile",
+                "country": "United States",
+                "iata": "BFM",
+                "icao": "KBFM",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2210006714,
+                    37.7212982178
+                ]
+            },
+            "properties": {
+                "name": "Metropolitan Oakland International Airport",
+                "city": "Oakland",
+                "country": "United States",
+                "iata": "OAK",
+                "icao": "KOAK",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8940963745,
+                    41.3031997681
+                ]
+            },
+            "properties": {
+                "name": "Eppley Airfield",
+                "city": "Omaha",
+                "country": "United States",
+                "iata": "OMA",
+                "icao": "KOMA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4330978394,
+                    37.6498985291
+                ]
+            },
+            "properties": {
+                "name": "Wichita Mid Continent Airport",
+                "city": "Wichita",
+                "country": "United States",
+                "iata": "ICT",
+                "icao": "KICT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.713898,
+                    39.2976
+                ]
+            },
+            "properties": {
+                "name": "Kansas City International Airport",
+                "city": "Kansas City",
+                "country": "United States",
+                "iata": "MCI",
+                "icao": "KMCI",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.3375015259,
+                    43.1399002075
+                ]
+            },
+            "properties": {
+                "name": "Dane County Regional Truax Field",
+                "city": "Madison",
+                "country": "United States",
+                "iata": "MSN",
+                "icao": "KMSN",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0120010376,
+                    33.434299469
+                ]
+            },
+            "properties": {
+                "name": "Phoenix Sky Harbor International Airport",
+                "city": "Phoenix",
+                "country": "United States",
+                "iata": "PHX",
+                "icao": "KPHX",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.8281021118,
+                    44.8073997498
+                ]
+            },
+            "properties": {
+                "name": "Bangor International Airport",
+                "city": "Bangor",
+                "country": "United States",
+                "iata": "BGR",
+                "icao": "KBGR",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.533996582,
+                    47.6198997498
+                ]
+            },
+            "properties": {
+                "name": "Spokane International Airport",
+                "city": "Spokane",
+                "country": "United States",
+                "iata": "GEG",
+                "icao": "KGEG",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.375,
+                    37.6189994812
+                ]
+            },
+            "properties": {
+                "name": "San Francisco International Airport",
+                "city": "San Francisco",
+                "country": "United States",
+                "iata": "SFO",
+                "icao": "KSFO",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.9766998291,
+                    35.0424003601
+                ]
+            },
+            "properties": {
+                "name": "Memphis International Airport",
+                "city": "Memphis",
+                "country": "United States",
+                "iata": "MEM",
+                "icao": "KMEM",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.014503479,
+                    35.1708984375
+                ]
+            },
+            "properties": {
+                "name": "Pope Field",
+                "city": "Fort Bragg",
+                "country": "United States",
+                "iata": "POB",
+                "icao": "KPOB",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4079971,
+                    33.94250107
+                ]
+            },
+            "properties": {
+                "name": "Los Angeles International Airport",
+                "city": "Los Angeles",
+                "country": "United States",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8498001099,
+                    41.4117012024
+                ]
+            },
+            "properties": {
+                "name": "Cleveland Hopkins International Airport",
+                "city": "Cleveland",
+                "country": "United States",
+                "iata": "CLE",
+                "icao": "KCLE",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46600342,
+                    39.12950134
+                ]
+            },
+            "properties": {
+                "name": "Dover Air Force Base",
+                "city": "Dover",
+                "country": "United States",
+                "iata": "DOV",
+                "icao": "KDOV",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6678009033,
+                    39.0488014221
+                ]
+            },
+            "properties": {
+                "name": "Cincinnati Northern Kentucky International Airport",
+                "city": "Cincinnati",
+                "country": "United States",
+                "iata": "CVG",
+                "icao": "KCVG",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.98760223,
+                    30.20529938
+                ]
+            },
+            "properties": {
+                "name": "Lafayette Regional Airport",
+                "city": "Lafayette",
+                "country": "United States",
+                "iata": "LFT",
+                "icao": "KLFT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1687011719,
+                    40.6925010681
+                ]
+            },
+            "properties": {
+                "name": "Newark Liberty International Airport",
+                "city": "Newark",
+                "country": "United States",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2229996,
+                    43.56439972
+                ]
+            },
+            "properties": {
+                "name": "Boise Air Terminal/Gowen field",
+                "city": "Boise",
+                "country": "United States",
+                "iata": "BOI",
+                "icao": "KBOI",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1429977,
+                    32.86840057
+                ]
+            },
+            "properties": {
+                "name": "Miramar Marine Corps Air Station - Mitscher Field",
+                "city": "Miramar",
+                "country": "United States",
+                "iata": "NKX",
+                "icao": "KNKX",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1527023315,
+                    26.072599411
+                ]
+            },
+            "properties": {
+                "name": "Fort Lauderdale Hollywood International Airport",
+                "city": "Fort Lauderdale",
+                "country": "United States",
+                "iata": "FLL",
+                "icao": "KFLL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9779968262,
+                    40.7883987427
+                ]
+            },
+            "properties": {
+                "name": "Salt Lake City International Airport",
+                "city": "Salt Lake City",
+                "country": "United States",
+                "iata": "SLC",
+                "icao": "KSLC",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7633972168,
+                    40.1935005188
+                ]
+            },
+            "properties": {
+                "name": "Harrisburg International Airport",
+                "city": "Harrisburg",
+                "country": "United States",
+                "iata": "MDT",
+                "icao": "KMDT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3414001465,
+                    29.9843997955
+                ]
+            },
+            "properties": {
+                "name": "George Bush Intercontinental Houston Airport",
+                "city": "Houston",
+                "country": "United States",
+                "iata": "IAH",
+                "icao": "KIAH",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.3779984,
+                    31.80719948
+                ]
+            },
+            "properties": {
+                "name": "El Paso International Airport",
+                "city": "El Paso",
+                "country": "United States",
+                "iata": "ELP",
+                "icao": "KELP",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6544036865,
+                    26.2285003662
+                ]
+            },
+            "properties": {
+                "name": "Valley International Airport",
+                "city": "Harlingen",
+                "country": "United States",
+                "iata": "HRL",
+                "icao": "KHRL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1194992065,
+                    33.9388008118
+                ]
+            },
+            "properties": {
+                "name": "Columbia Metropolitan Airport",
+                "city": "Columbia",
+                "country": "United States",
+                "iata": "CAE",
+                "icao": "KCAE",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.23290253,
+                    40.49150085
+                ]
+            },
+            "properties": {
+                "name": "Pittsburgh International Airport",
+                "city": "Pittsburgh",
+                "country": "United States",
+                "iata": "PIT",
+                "icao": "KPIT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2906036377,
+                    25.7931995392
+                ]
+            },
+            "properties": {
+                "name": "Miami International Airport",
+                "city": "Miami",
+                "country": "United States",
+                "iata": "MIA",
+                "icao": "KMIA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3089981079,
+                    47.4490013123
+                ]
+            },
+            "properties": {
+                "name": "Seattle Tacoma International Airport",
+                "city": "Seattle",
+                "country": "United States",
+                "iata": "SEA",
+                "icao": "KSEA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2037963867,
+                    35.0353012085
+                ]
+            },
+            "properties": {
+                "name": "Lovell Field",
+                "city": "Chattanooga",
+                "country": "United States",
+                "iata": "CHA",
+                "icao": "KCHA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.294403,
+                    39.7173
+                ]
+            },
+            "properties": {
+                "name": "Indianapolis International Airport",
+                "city": "Indianapolis",
+                "country": "United States",
+                "iata": "IND",
+                "icao": "KIND",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3197021484,
+                    37.5051994324
+                ]
+            },
+            "properties": {
+                "name": "Richmond International Airport",
+                "city": "Richmond",
+                "country": "United States",
+                "iata": "RIC",
+                "icao": "KRIC",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2012023926,
+                    36.8945999146
+                ]
+            },
+            "properties": {
+                "name": "Norfolk International Airport",
+                "city": "Norfolk",
+                "country": "United States",
+                "iata": "ORF",
+                "icao": "KORF",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.20210266,
+                    32.12760162
+                ]
+            },
+            "properties": {
+                "name": "Savannah Hilton Head International Airport",
+                "city": "Savannah",
+                "country": "United States",
+                "iata": "SAV",
+                "icao": "KSAV",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4698028564,
+                    29.533700943
+                ]
+            },
+            "properties": {
+                "name": "San Antonio International Airport",
+                "city": "San Antonio",
+                "country": "United States",
+                "iata": "SAT",
+                "icao": "KSAT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6724014282,
+                    43.1189002991
+                ]
+            },
+            "properties": {
+                "name": "Greater Rochester International Airport",
+                "city": "Rochester",
+                "country": "United States",
+                "iata": "ROC",
+                "icao": "KROC",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7874984741,
+                    35.8776016235
+                ]
+            },
+            "properties": {
+                "name": "Raleigh Durham International Airport",
+                "city": "Raleigh-durham",
+                "country": "United States",
+                "iata": "RDU",
+                "icao": "KRDU",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2193984985,
+                    39.9024009705
+                ]
+            },
+            "properties": {
+                "name": "James M Cox Dayton International Airport",
+                "city": "Dayton",
+                "country": "United States",
+                "iata": "DAY",
+                "icao": "KDAY",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -151.2449951172,
+                    60.5731010437
+                ]
+            },
+            "properties": {
+                "name": "Kenai Municipal Airport",
+                "city": "Kenai",
+                "country": "United States",
+                "iata": "ENA",
+                "icao": "PAEN",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9410018921,
+                    32.1161003113
+                ]
+            },
+            "properties": {
+                "name": "Tucson International Airport",
+                "city": "Tucson",
+                "country": "United States",
+                "iata": "TUS",
+                "icao": "KTUS",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4204025269,
+                    41.7326011658
+                ]
+            },
+            "properties": {
+                "name": "Theodore Francis Green State Airport",
+                "city": "Providence",
+                "country": "United States",
+                "iata": "PVD",
+                "icao": "KPVD",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3590011597,
+                    34.2006988525
+                ]
+            },
+            "properties": {
+                "name": "Bob Hope Airport",
+                "city": "Burbank",
+                "country": "United States",
+                "iata": "BUR",
+                "icao": "KBUR",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3534011841,
+                    42.2123985291
+                ]
+            },
+            "properties": {
+                "name": "Detroit Metropolitan Wayne County Airport",
+                "city": "Detroit",
+                "country": "United States",
+                "iata": "DTW",
+                "icao": "KDTW",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.533203125,
+                    27.9755001068
+                ]
+            },
+            "properties": {
+                "name": "Tampa International Airport",
+                "city": "Tampa",
+                "country": "United States",
+                "iata": "TPA",
+                "icao": "KTPA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1047973633,
+                    41.5041007996
+                ]
+            },
+            "properties": {
+                "name": "Stewart International Airport",
+                "city": "Newburgh",
+                "country": "United States",
+                "iata": "SWF",
+                "icao": "KSWF",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0380020142,
+                    32.8968009949
+                ]
+            },
+            "properties": {
+                "name": "Dallas Fort Worth International Airport",
+                "city": "Dallas-Fort Worth",
+                "country": "United States",
+                "iata": "DFW",
+                "icao": "KDFW",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6698989868,
+                    30.1944999695
+                ]
+            },
+            "properties": {
+                "name": "Austin Bergstrom International Airport",
+                "city": "Austin",
+                "country": "United States",
+                "iata": "AUS",
+                "icao": "KAUS",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.927803,
+                    39.813801
+                ]
+            },
+            "properties": {
+                "name": "Rickenbacker International Airport",
+                "city": "Columbus",
+                "country": "United States",
+                "iata": "LCK",
+                "icao": "KLCK",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9940033,
+                    35.81100082
+                ]
+            },
+            "properties": {
+                "name": "McGhee Tyson Airport",
+                "city": "Knoxville",
+                "country": "United States",
+                "iata": "TYS",
+                "icao": "KTYS",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3700027466,
+                    38.7486991882
+                ]
+            },
+            "properties": {
+                "name": "Lambert St Louis International Airport",
+                "city": "St. Louis",
+                "country": "United States",
+                "iata": "STL",
+                "icao": "KSTL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4281005859,
+                    33.6366996765
+                ]
+            },
+            "properties": {
+                "name": "Hartsfield Jackson Atlanta International Airport",
+                "city": "Atlanta",
+                "country": "United States",
+                "iata": "ATL",
+                "icao": "KATL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.6781997681,
+                    36.1245002747
+                ]
+            },
+            "properties": {
+                "name": "Nashville International Airport",
+                "city": "Nashville",
+                "country": "United States",
+                "iata": "BNA",
+                "icao": "KBNA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.4616012573,
+                    27.543800354
+                ]
+            },
+            "properties": {
+                "name": "Laredo International Airport",
+                "city": "Laredo",
+                "country": "United States",
+                "iata": "LRD",
+                "icao": "KLRD",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3503036499,
+                    30.3964996338
+                ]
+            },
+            "properties": {
+                "name": "Tallahassee Regional Airport",
+                "city": "Tallahassee",
+                "country": "United States",
+                "iata": "TLH",
+                "icao": "KTLH",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6878967285,
+                    30.4941005707
+                ]
+            },
+            "properties": {
+                "name": "Jacksonville International Airport",
+                "city": "Jacksonville",
+                "country": "United States",
+                "iata": "JAX",
+                "icao": "KJAX",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.753997803,
+                    37.1515007019
+                ]
+            },
+            "properties": {
+                "name": "Durango La Plata County Airport",
+                "city": "Durango",
+                "country": "United States",
+                "iata": "DRO",
+                "icao": "KDRO",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45580292,
+                    38.94449997
+                ]
+            },
+            "properties": {
+                "name": "Washington Dulles International Airport",
+                "city": "Washington",
+                "country": "United States",
+                "iata": "IAD",
+                "icao": "KIAD",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8965988159,
+                    42.9472007751
+                ]
+            },
+            "properties": {
+                "name": "General Mitchell International Airport",
+                "city": "Milwaukee",
+                "country": "United States",
+                "iata": "MKE",
+                "icao": "KMKE",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5979996,
+                    45.58869934
+                ]
+            },
+            "properties": {
+                "name": "Portland International Airport",
+                "city": "Portland",
+                "country": "United States",
+                "iata": "PDX",
+                "icao": "KPDX",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0955963135,
+                    26.6832008362
+                ]
+            },
+            "properties": {
+                "name": "Palm Beach International Airport",
+                "city": "West Palm Beach",
+                "country": "United States",
+                "iata": "PBI",
+                "icao": "KPBI",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.9219970703,
+                    21.3187007904
+                ]
+            },
+            "properties": {
+                "name": "Honolulu International Airport",
+                "city": "Honolulu",
+                "country": "United States",
+                "iata": "HNL",
+                "icao": "PHNL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6631011963,
+                    41.5340003967
+                ]
+            },
+            "properties": {
+                "name": "Des Moines International Airport",
+                "city": "Des Moines",
+                "country": "United States",
+                "iata": "DSM",
+                "icao": "KDSM",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.190002441,
+                    32.7336006165
+                ]
+            },
+            "properties": {
+                "name": "San Diego International Airport",
+                "city": "San Diego",
+                "country": "United States",
+                "iata": "SAN",
+                "icao": "KSAN",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.6009979248,
+                    34.0559997559
+                ]
+            },
+            "properties": {
+                "name": "Ontario International Airport",
+                "city": "Ontario",
+                "country": "United States",
+                "iata": "ONT",
+                "icao": "KONT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4496002197,
+                    31.3213005066
+                ]
+            },
+            "properties": {
+                "name": "Dothan Regional Airport",
+                "city": "Dothan",
+                "country": "United States",
+                "iata": "DHN",
+                "icao": "KDHN",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.106300354,
+                    43.1111984253
+                ]
+            },
+            "properties": {
+                "name": "Syracuse Hancock International Airport",
+                "city": "Syracuse",
+                "country": "United States",
+                "iata": "SYR",
+                "icao": "KSYR",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9290008545,
+                    37.3625984192
+                ]
+            },
+            "properties": {
+                "name": "Norman Y. Mineta San Jose International Airport",
+                "city": "San Jose",
+                "country": "United States",
+                "iata": "SJC",
+                "icao": "KSJC",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.672996521,
+                    39.8616981506
+                ]
+            },
+            "properties": {
+                "name": "Denver International Airport",
+                "city": "Denver",
+                "country": "United States",
+                "iata": "DEN",
+                "icao": "KDEN",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2410964966,
+                    39.8718986511
+                ]
+            },
+            "properties": {
+                "name": "Philadelphia International Airport",
+                "city": "Philadelphia",
+                "country": "United States",
+                "iata": "PHL",
+                "icao": "KPHL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.9960021973,
+                    61.1744003296
+                ]
+            },
+            "properties": {
+                "name": "Ted Stevens Anchorage International Airport",
+                "city": "Anchorage",
+                "country": "United States",
+                "iata": "ANC",
+                "icao": "PANC",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7552032471,
+                    26.5361995697
+                ]
+            },
+            "properties": {
+                "name": "Southwest Florida International Airport",
+                "city": "Fort Myers",
+                "country": "United States",
+                "iata": "RSW",
+                "icao": "KRSW",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.77890015,
+                    40.63980103
+                ]
+            },
+            "properties": {
+                "name": "John F Kennedy International Airport",
+                "city": "New York",
+                "country": "United States",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.04049683,
+                    32.89860153
+                ]
+            },
+            "properties": {
+                "name": "Charleston Air Force Base-International Airport",
+                "city": "Charleston",
+                "country": "United States",
+                "iata": "CHS",
+                "icao": "KCHS",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7679977417,
+                    39.4990997314
+                ]
+            },
+            "properties": {
+                "name": "Reno Tahoe International Airport",
+                "city": "Reno",
+                "country": "United States",
+                "iata": "RNO",
+                "icao": "KRNO",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.75350189,
+                    33.56290054
+                ]
+            },
+            "properties": {
+                "name": "Birmingham-Shuttlesworth International Airport",
+                "city": "Birmingham",
+                "country": "United States",
+                "iata": "BHM",
+                "icao": "KBHM",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.591003418,
+                    38.695400238
+                ]
+            },
+            "properties": {
+                "name": "Sacramento International Airport",
+                "city": "Sacramento",
+                "country": "United States",
+                "iata": "SMF",
+                "icao": "KSMF",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.7009963989,
+                    38.8058013916
+                ]
+            },
+            "properties": {
+                "name": "City of Colorado Springs Municipal Airport",
+                "city": "Colorado Springs",
+                "country": "United States",
+                "iata": "COS",
+                "icao": "KCOS",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.73220062,
+                    42.94049835
+                ]
+            },
+            "properties": {
+                "name": "Buffalo Niagara International Airport",
+                "city": "Buffalo",
+                "country": "United States",
+                "iata": "BUF",
+                "icao": "KBUF",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2819977,
+                    47.90629959
+                ]
+            },
+            "properties": {
+                "name": "Snohomish County (Paine Field) Airport",
+                "city": "Everett",
+                "country": "United States",
+                "iata": "PAE",
+                "icao": "KPAE",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6831970215,
+                    41.9388999939
+                ]
+            },
+            "properties": {
+                "name": "Bradley International Airport",
+                "city": "Windsor Locks",
+                "country": "United States",
+                "iata": "BDL",
+                "icao": "KBDL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.28929901,
+                    36.93759918
+                ]
+            },
+            "properties": {
+                "name": "Norfolk Ns (Chambers Fld) Airport",
+                "city": "Norfolk",
+                "country": "United States",
+                "iata": "NGU",
+                "icao": "KNGU",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.90480042,
+                    41.97859955
+                ]
+            },
+            "properties": {
+                "name": "Chicago O'Hare International Airport",
+                "city": "Chicago",
+                "country": "United States",
+                "iata": "ORD",
+                "icao": "KORD",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.8560028,
+                    64.81510162
+                ]
+            },
+            "properties": {
+                "name": "Fairbanks International Airport",
+                "city": "Fairbanks",
+                "country": "United States",
+                "iata": "FAI",
+                "icao": "PAFA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.66829681,
+                    39.17539978
+                ]
+            },
+            "properties": {
+                "name": "Baltimore/Washington International Thurgood Marshall Airport",
+                "city": "Baltimore",
+                "country": "United States",
+                "iata": "BWI",
+                "icao": "KBWI",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8880996704,
+                    36.1983985901
+                ]
+            },
+            "properties": {
+                "name": "Tulsa International Airport",
+                "city": "Tulsa",
+                "country": "United States",
+                "iata": "TUL",
+                "icao": "KTUL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2218017578,
+                    44.8819999695
+                ]
+            },
+            "properties": {
+                "name": "Minneapolis-St Paul International/Wold-Chamberlain Airport",
+                "city": "Minneapolis",
+                "country": "United States",
+                "iata": "MSP",
+                "icao": "KMSP",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2580032349,
+                    29.9934005737
+                ]
+            },
+            "properties": {
+                "name": "Louis Armstrong New Orleans International Airport",
+                "city": "New Orleans",
+                "country": "United States",
+                "iata": "MSY",
+                "icao": "KMSY",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.30930328,
+                    43.64619827
+                ]
+            },
+            "properties": {
+                "name": "Portland International Jetport Airport",
+                "city": "Portland",
+                "country": "United States",
+                "iata": "PWM",
+                "icao": "KPWM",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8016967773,
+                    42.748298645
+                ]
+            },
+            "properties": {
+                "name": "Albany International Airport",
+                "city": "Albany",
+                "country": "United States",
+                "iata": "ALB",
+                "icao": "KALB",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.8679962,
+                    33.67570114
+                ]
+            },
+            "properties": {
+                "name": "John Wayne Airport-Orange County Airport",
+                "city": "Santa Ana",
+                "country": "United States",
+                "iata": "SNA",
+                "icao": "KSNA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.4639969,
+                    42.90800095
+                ]
+            },
+            "properties": {
+                "name": "Casper-Natrona County International Airport",
+                "city": "Casper",
+                "country": "United States",
+                "iata": "CPR",
+                "icao": "KCPR",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9430999756,
+                    35.2140007019
+                ]
+            },
+            "properties": {
+                "name": "Charlotte Douglas International Airport",
+                "city": "Charlotte",
+                "country": "United States",
+                "iata": "CLT",
+                "icao": "KCLT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3089981079,
+                    28.4293994904
+                ]
+            },
+            "properties": {
+                "name": "Orlando International Airport",
+                "city": "Orlando",
+                "country": "United States",
+                "iata": "MCO",
+                "icao": "KMCO",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3710022,
+                    47.48199844
+                ]
+            },
+            "properties": {
+                "name": "Great Falls International Airport",
+                "city": "Great Falls",
+                "country": "United States",
+                "iata": "GTF",
+                "icao": "KGTF",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7470016479,
+                    13.6810998917
+                ]
+            },
+            "properties": {
+                "name": "Suvarnabhumi Airport",
+                "city": "Bangkok",
+                "country": "Thailand",
+                "iata": "BKK",
+                "icao": "VTBS",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9444999695,
+                    37.9364013672
+                ]
+            },
+            "properties": {
+                "name": "Eleftherios Venizelos International Airport",
+                "city": "Athens",
+                "country": "Greece",
+                "iata": "ATH",
+                "icao": "LGAV",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0848007202,
+                    54.9639015198
+                ]
+            },
+            "properties": {
+                "name": "Kaunas International Airport",
+                "city": "Kaunas",
+                "country": "Lithuania",
+                "iata": "KUN",
+                "icao": "EYKA",
+                "region": "Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2440032959,
+                    34.4272994995
+                ]
+            },
+            "properties": {
+                "name": "Kansai International Airport",
+                "city": "Osaka",
+                "country": "Japan",
+                "iata": "KIX",
+                "icao": "RJBB",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9373016357,
+                    36.0978012085
+                ]
+            },
+            "properties": {
+                "name": "Piedmont Triad International Airport",
+                "city": "Greensboro",
+                "country": "United States",
+                "iata": "GSO",
+                "icao": "KGSO",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.741897583,
+                    43.5820007324
+                ]
+            },
+            "properties": {
+                "name": "Joe Foss Field Airport",
+                "city": "Sioux Falls",
+                "country": "United States",
+                "iata": "FSD",
+                "icao": "KFSD",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.736,
+                    38.1744
+                ]
+            },
+            "properties": {
+                "name": "Louisville International Standiford Field",
+                "city": "Louisville",
+                "country": "United States",
+                "iata": "SDF",
+                "icao": "KSDF",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.975402832,
+                    37.3255004883
+                ]
+            },
+            "properties": {
+                "name": "Roanoke\u2013Blacksburg Regional Airport",
+                "city": "Roanoke VA",
+                "country": "United States",
+                "iata": "ROA",
+                "icao": "KROA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6090011597,
+                    35.0401992798
+                ]
+            },
+            "properties": {
+                "name": "Albuquerque International Sunport Airport",
+                "city": "Albuquerque",
+                "country": "United States",
+                "iata": "ABQ",
+                "icao": "KABQ",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.5429992676,
+                    45.8077011108
+                ]
+            },
+            "properties": {
+                "name": "Billings Logan International Airport",
+                "city": "Billings",
+                "country": "United States",
+                "iata": "BIL",
+                "icao": "KBIL",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2189025879,
+                    34.8956985474
+                ]
+            },
+            "properties": {
+                "name": "Greenville Spartanburg International Airport",
+                "city": "Greenville",
+                "country": "United States",
+                "iata": "GSP",
+                "icao": "KGSP",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.91590118,
+                    40.47710037
+                ]
+            },
+            "properties": {
+                "name": "Central Illinois Regional Airport at Bloomington-Normal",
+                "city": "Bloomington",
+                "country": "United States",
+                "iata": "BMI",
+                "icao": "KBMI",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.19509888,
+                    40.97850037
+                ]
+            },
+            "properties": {
+                "name": "Fort Wayne International Airport",
+                "city": "Fort Wayne",
+                "country": "United States",
+                "iata": "FWA",
+                "icao": "KFWA",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.7108001709,
+                    41.8847007751
+                ]
+            },
+            "properties": {
+                "name": "The Eastern Iowa Airport",
+                "city": "Cedar Rapids",
+                "country": "United States",
+                "iata": "CID",
+                "icao": "KCID",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5190963745,
+                    44.2580986023
+                ]
+            },
+            "properties": {
+                "name": "Appleton International Airport",
+                "city": "Appleton",
+                "country": "United States",
+                "iata": "ATW",
+                "icao": "KATW",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.5,
+                    43.9082984924
+                ]
+            },
+            "properties": {
+                "name": "Rochester International Airport",
+                "city": "Rochester",
+                "country": "United States",
+                "iata": "RST",
+                "icao": "KRST",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.527000427,
+                    39.1223983765
+                ]
+            },
+            "properties": {
+                "name": "Grand Junction Regional Airport",
+                "city": "Grand Junction",
+                "country": "United States",
+                "iata": "GJT",
+                "icao": "KGJT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.743598938,
+                    42.9654006958
+                ]
+            },
+            "properties": {
+                "name": "Bishop International Airport",
+                "city": "Flint",
+                "country": "United States",
+                "iata": "FNT",
+                "icao": "KFNT",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559997559,
+                    15.1859998703
+                ]
+            },
+            "properties": {
+                "name": "Clark International Airport",
+                "city": "Angeles City",
+                "country": "Philippines",
+                "iata": "CRK",
+                "icao": "RPLC",
+                "region": "Asia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8158035278,
+                    46.9207000732
+                ]
+            },
+            "properties": {
+                "name": "Hector International Airport",
+                "city": "Fargo",
+                "country": "United States",
+                "iata": "FAR",
+                "icao": "KFAR",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.38860321,
+                    37.24570084
+                ]
+            },
+            "properties": {
+                "name": "Springfield Branson National Airport",
+                "city": "Springfield",
+                "country": "United States",
+                "iata": "SGF",
+                "icao": "KSGF",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4408035278,
+                    40.6520996094
+                ]
+            },
+            "properties": {
+                "name": "Lehigh Valley International Airport",
+                "city": "Allentown",
+                "country": "United States",
+                "iata": "ABE",
+                "icao": "KABE",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3172988892,
+                    41.7086982727
+                ]
+            },
+            "properties": {
+                "name": "South Bend Regional Airport",
+                "city": "South Bend",
+                "country": "United States",
+                "iata": "SBN",
+                "icao": "KSBN",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.1090011597,
+                    40.978099823
+                ]
+            },
+            "properties": {
+                "name": "Arcata Airport",
+                "city": "Arcata CA",
+                "country": "United States",
+                "iata": "ACV",
+                "icao": "KACV",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.55799866,
+                    38.36669922
+                ]
+            },
+            "properties": {
+                "name": "Tri-State/Milton J. Ferguson Field",
+                "city": "Huntington",
+                "country": "United States",
+                "iata": "HTS",
+                "icao": "KHTS",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.23500061,
+                    34.0954017639
+                ]
+            },
+            "properties": {
+                "name": "San Bernardino International Airport",
+                "city": "San Bernardino",
+                "country": "United States",
+                "iata": "SBD",
+                "icao": "KSBD",
+                "region": "North America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3188018799,
+                    32.9875984192
+                ]
+            },
+            "properties": {
+                "name": "Fort Worth Alliance Airport",
+                "city": "Fort Worth",
+                "country": "United States",
+                "iata": "AFW",
+                "icao": "KAFW",
+                "region": "North America"
+            }
+        }
+    ]
+}
