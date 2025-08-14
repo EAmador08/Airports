@@ -16,7 +16,6 @@
                 "city": "Edmonton",
                 "country": "Canada",
                 "iata": "YEG",
-                "icao": "CYEG",
                 "region": "Canada"
             }
         },
@@ -35,7 +34,6 @@
                 "city": "Halifax",
                 "country": "Canada",
                 "iata": "YHZ",
-                "icao": "CYHZ",
                 "region": "Canada"
             }
         },
@@ -54,7 +52,6 @@
                 "city": "Montreal",
                 "country": "Canada",
                 "iata": "YMX",
-                "icao": "CYMX",
                 "region": "Canada"
             }
         },
@@ -73,7 +70,6 @@
                 "city": "Ottawa",
                 "country": "Canada",
                 "iata": "YOW",
-                "icao": "CYOW",
                 "region": "Canada"
             }
         },
@@ -92,7 +88,6 @@
                 "city": "Moncton",
                 "country": "Canada",
                 "iata": "YQM",
-                "icao": "CYQM",
                 "region": "Canada"
             }
         },
@@ -111,7 +106,6 @@
                 "city": "Vancouver",
                 "country": "Canada",
                 "iata": "YVR",
-                "icao": "CYVR",
                 "region": "Canada"
             }
         },
@@ -130,7 +124,6 @@
                 "city": "Winnipeg",
                 "country": "Canada",
                 "iata": "YWG",
-                "icao": "CYWG",
                 "region": "Canada"
             }
         },
@@ -149,7 +142,6 @@
                 "city": "Calgary",
                 "country": "Canada",
                 "iata": "YYC",
-                "icao": "CYYC",
                 "region": "Canada"
             }
         },
@@ -168,7 +160,6 @@
                 "city": "Toronto",
                 "country": "Canada",
                 "iata": "YYZ",
-                "icao": "CYYZ",
                 "region": "Canada"
             }
         },
@@ -187,7 +178,6 @@
                 "city": "Liege",
                 "country": "Belgium",
                 "iata": "LGG",
-                "icao": "EBLG",
                 "region": "EMEA"
             }
         },
@@ -206,7 +196,6 @@
                 "city": "Berlin",
                 "country": "Germany",
                 "iata": "SXF",
-                "icao": "EDDB",
                 "region": "EMEA"
             }
         },
@@ -225,7 +214,6 @@
                 "city": "Erfurt",
                 "country": "Germany",
                 "iata": "ERF",
-                "icao": "EDDE",
                 "region": "EMEA"
             }
         },
@@ -244,7 +232,6 @@
                 "city": "Cologne",
                 "country": "Germany",
                 "iata": "CGN",
-                "icao": "EDDK",
                 "region": "EMEA"
             }
         },
@@ -263,7 +250,6 @@
                 "city": "Munich",
                 "country": "Germany",
                 "iata": "MUC",
-                "icao": "EDDM",
                 "region": "EMEA"
             }
         },
@@ -282,7 +268,6 @@
                 "city": "Hannover",
                 "country": "Germany",
                 "iata": "HAJ",
-                "icao": "EDDV",
                 "region": "EMEA"
             }
         },
@@ -301,7 +286,6 @@
                 "city": "Helsinki",
                 "country": "Finland",
                 "iata": "HEL",
-                "icao": "EFHK",
                 "region": "EMEA"
             }
         },
@@ -320,7 +304,6 @@
                 "city": "Birmingham",
                 "country": "United Kingdom",
                 "iata": "BHX",
-                "icao": "EGBB",
                 "region": "EMEA"
             }
         },
@@ -339,7 +322,6 @@
                 "city": "East Midlands",
                 "country": "United Kingdom",
                 "iata": "EMA",
-                "icao": "EGNX",
                 "region": "EMEA"
             }
         },
@@ -358,7 +340,6 @@
                 "city": "London",
                 "country": "United Kingdom",
                 "iata": "STN",
-                "icao": "EGSS",
                 "region": "EMEA"
             }
         },
@@ -377,7 +358,6 @@
                 "city": "Amsterdam",
                 "country": "Netherlands",
                 "iata": "AMS",
-                "icao": "EHAM",
                 "region": "EMEA"
             }
         },
@@ -396,7 +376,6 @@
                 "city": "Dublin",
                 "country": "Ireland",
                 "iata": "DUB",
-                "icao": "EIDW",
                 "region": "EMEA"
             }
         },
@@ -415,7 +394,6 @@
                 "city": "Copenhagen",
                 "country": "Denmark",
                 "iata": "CPH",
-                "icao": "EKCH",
                 "region": "EMEA"
             }
         },
@@ -434,7 +412,6 @@
                 "city": "Trondheim",
                 "country": "Norway",
                 "iata": "TRD",
-                "icao": "ENVA",
                 "region": "EMEA"
             }
         },
@@ -453,7 +430,6 @@
                 "city": "Katowice",
                 "country": "Poland",
                 "iata": "KTW",
-                "icao": "EPKT",
                 "region": "EMEA"
             }
         },
@@ -472,7 +448,6 @@
                 "city": "Warsaw",
                 "country": "Poland",
                 "iata": "WAW",
-                "icao": "EPWA",
                 "region": "EMEA"
             }
         },
@@ -491,7 +466,6 @@
                 "city": "Gothenborg",
                 "country": "Sweden",
                 "iata": "GOT",
-                "icao": "ESGG",
                 "region": "EMEA"
             }
         },
@@ -510,7 +484,6 @@
                 "city": "Malmoe",
                 "country": "Sweden",
                 "iata": "MMX",
-                "icao": "ESMS",
                 "region": "EMEA"
             }
         },
@@ -529,7 +502,6 @@
                 "city": "Stockholm",
                 "country": "Sweden",
                 "iata": "ARN",
-                "icao": "ESSA",
                 "region": "EMEA"
             }
         },
@@ -548,7 +520,6 @@
                 "city": "Johannesburg",
                 "country": "South Africa",
                 "iata": "JNB",
-                "icao": "FAJS",
                 "region": "Africa"
             }
         },
@@ -567,7 +538,6 @@
                 "city": "Sofia",
                 "country": "Bulgaria",
                 "iata": "SOF",
-                "icao": "LBSF",
                 "region": "EMEA"
             }
         },
@@ -586,7 +556,6 @@
                 "city": "Barcelona",
                 "country": "Spain",
                 "iata": "BCN",
-                "icao": "LEBL",
                 "region": "EMEA"
             }
         },
@@ -605,7 +574,6 @@
                 "city": "Madrid",
                 "country": "Spain",
                 "iata": "MAD",
-                "icao": "LEMD",
                 "region": "EMEA"
             }
         },
@@ -624,7 +592,6 @@
                 "city": "Vitoria",
                 "country": "Spain",
                 "iata": "VIT",
-                "icao": "LEVT",
                 "region": "EMEA"
             }
         },
@@ -643,7 +610,6 @@
                 "city": "Toulouse",
                 "country": "France",
                 "iata": "TLS",
-                "icao": "LFBO",
                 "region": "EMEA"
             }
         },
@@ -662,7 +628,6 @@
                 "city": "Lyon",
                 "country": "France",
                 "iata": "LYS",
-                "icao": "LFLL",
                 "region": "EMEA"
             }
         },
@@ -681,7 +646,6 @@
                 "city": "Paris",
                 "country": "France",
                 "iata": "CDG",
-                "icao": "LFPG",
                 "region": "EMEA"
             }
         },
@@ -700,7 +664,6 @@
                 "city": "Mulhouse",
                 "country": "France",
                 "iata": "BSL",
-                "icao": "LFSB",
                 "region": "EMEA"
             }
         },
@@ -719,7 +682,6 @@
                 "city": "Budapest",
                 "country": "Hungary",
                 "iata": "BUD",
-                "icao": "LHBP",
                 "region": "EMEA"
             }
         },
@@ -738,7 +700,6 @@
                 "city": "Sigonella",
                 "country": "Italy",
                 "iata": "NSY",
-                "icao": "LICZ",
                 "region": "EMEA"
             }
         },
@@ -757,7 +718,6 @@
                 "city": "Milano",
                 "country": "Italy",
                 "iata": "MXP",
-                "icao": "LIMC",
                 "region": "EMEA"
             }
         },
@@ -776,7 +736,6 @@
                 "city": "Bologna",
                 "country": "Italy",
                 "iata": "BLQ",
-                "icao": "LIPE",
                 "region": "EMEA"
             }
         },
@@ -795,7 +754,6 @@
                 "city": "Venice",
                 "country": "Italy",
                 "iata": "VCE",
-                "icao": "LIPZ",
                 "region": "EMEA"
             }
         },
@@ -814,7 +772,6 @@
                 "city": "Rome",
                 "country": "Italy",
                 "iata": "CIA",
-                "icao": "LIRA",
                 "region": "EMEA"
             }
         },
@@ -833,7 +790,6 @@
                 "city": "Ljubljana",
                 "country": "Slovenia",
                 "iata": "LJU",
-                "icao": "LJLJ",
                 "region": "EMEA"
             }
         },
@@ -852,7 +808,6 @@
                 "city": "Tel-aviv",
                 "country": "Israel",
                 "iata": "TLV",
-                "icao": "LLBG",
                 "region": "EMEA"
             }
         },
@@ -871,7 +826,6 @@
                 "city": "Vienna",
                 "country": "Austria",
                 "iata": "VIE",
-                "icao": "LOWW",
                 "region": "EMEA"
             }
         },
@@ -890,7 +844,6 @@
                 "city": "Porto",
                 "country": "Portugal",
                 "iata": "OPO",
-                "icao": "LPPR",
                 "region": "EMEA"
             }
         },
@@ -909,7 +862,6 @@
                 "city": "Bucharest",
                 "country": "Romania",
                 "iata": "OTP",
-                "icao": "LROP",
                 "region": "EMEA"
             }
         },
@@ -928,7 +880,6 @@
                 "city": "Istanbul",
                 "country": "Turkey",
                 "iata": "IST",
-                "icao": "LTBA",
                 "region": "EMEA"
             }
         },
@@ -947,7 +898,6 @@
                 "city": "Santo Domingo",
                 "country": "Dominican Republic",
                 "iata": "SDQ",
-                "icao": "MDSD",
                 "region": "Caribbean"
             }
         },
@@ -966,7 +916,6 @@
                 "city": "Mexico City",
                 "country": "Mexico",
                 "iata": "MEX",
-                "icao": "MMMX",
                 "region": "Central & South America"
             }
         },
@@ -985,7 +934,6 @@
                 "city": "Monterrey",
                 "country": "Mexico",
                 "iata": "MTY",
-                "icao": "MMMY",
                 "region": "Central & South America"
             }
         },
@@ -1004,7 +952,6 @@
                 "city": "Queretaro",
                 "country": "Mexico",
                 "iata": "QRO",
-                "icao": "MMQT",
                 "region": "Central & South America"
             }
         },
@@ -1023,7 +970,6 @@
                 "city": "Tijuana",
                 "country": "Mexico",
                 "iata": "TIJ",
-                "icao": "MMTJ",
                 "region": "Central & South America"
             }
         },
@@ -1042,7 +988,6 @@
                 "city": "Panama City",
                 "country": "Panama",
                 "iata": "PTY",
-                "icao": "MPTO",
                 "region": "Central & South America"
             }
         },
@@ -1061,7 +1006,6 @@
                 "city": "San Jose",
                 "country": "Costa Rica",
                 "iata": "SJO",
-                "icao": "MROC",
                 "region": "Central & South America"
             }
         },
@@ -1080,7 +1024,6 @@
                 "city": "San Salvador",
                 "country": "El Salvador",
                 "iata": "SAL",
-                "icao": "MSLP",
                 "region": "Central & South America"
             }
         },
@@ -1099,7 +1042,6 @@
                 "city": "Auckland",
                 "country": "New Zealand",
                 "iata": "AKL",
-                "icao": "NZAA",
                 "region": "APAC"
             }
         },
@@ -1118,7 +1060,6 @@
                 "city": "Bahrain",
                 "country": "Bahrain",
                 "iata": "BAH",
-                "icao": "OBBI",
                 "region": "EMEA"
             }
         },
@@ -1137,7 +1078,6 @@
                 "city": "Dubai",
                 "country": "United Arab Emirates",
                 "iata": "DXB",
-                "icao": "OMDB",
                 "region": "EMEA"
             }
         },
@@ -1156,7 +1096,6 @@
                 "city": "Tokyo",
                 "country": "Japan",
                 "iata": "NRT",
-                "icao": "RJAA",
                 "region": "APAC"
             }
         },
@@ -1175,7 +1114,6 @@
                 "city": "Manila",
                 "country": "Philippines",
                 "iata": "MNL",
-                "icao": "RPLL",
                 "region": "APAC"
             }
         },
@@ -1194,7 +1132,6 @@
                 "city": "Belo Horizonte",
                 "country": "Brazil",
                 "iata": "CNF",
-                "icao": "SBCF",
                 "region": "Central & South America"
             }
         },
@@ -1213,7 +1150,6 @@
                 "city": "Campinas",
                 "country": "Brazil",
                 "iata": "VCP",
-                "icao": "SBKP",
                 "region": "Central & South America"
             }
         },
@@ -1232,7 +1168,6 @@
                 "city": "Quito",
                 "country": "Ecuador",
                 "iata": "UIO",
-                "icao": "SEQM",
                 "region": "Central & South America"
             }
         },
@@ -1251,7 +1186,6 @@
                 "city": "Bogota",
                 "country": "Colombia",
                 "iata": "BOG",
-                "icao": "SKBO",
                 "region": "Central & South America"
             }
         },
@@ -1270,7 +1204,6 @@
                 "city": "Rio Negro",
                 "country": "Colombia",
                 "iata": "MDE",
-                "icao": "SKRG",
                 "region": "Central & South America"
             }
         },
@@ -1289,7 +1222,6 @@
                 "city": "Aguadilla",
                 "country": "Puerto Rico",
                 "iata": "BQN",
-                "icao": "TJBQ",
                 "region": "Caribbean"
             }
         },
@@ -1308,7 +1240,6 @@
                 "city": "San Juan",
                 "country": "Puerto Rico",
                 "iata": "SJU",
-                "icao": "TJSJ",
                 "region": "Caribbean"
             }
         },
@@ -1327,7 +1258,6 @@
                 "city": "Mumbai",
                 "country": "India",
                 "iata": "BOM",
-                "icao": "VABB",
                 "region": "APAC"
             }
         },
@@ -1346,7 +1276,6 @@
                 "city": "Delhi",
                 "country": "India",
                 "iata": "DEL",
-                "icao": "VIDP",
                 "region": "APAC"
             }
         },
@@ -1365,7 +1294,6 @@
                 "city": "Hanoi",
                 "country": "Vietnam",
                 "iata": "HAN",
-                "icao": "VVNB",
                 "region": "APAC"
             }
         },
@@ -1384,7 +1312,6 @@
                 "city": "Ho Chi Minh City",
                 "country": "Vietnam",
                 "iata": "SGN",
-                "icao": "VVTS",
                 "region": "APAC"
             }
         },
@@ -1403,7 +1330,6 @@
                 "city": "Kuala Lumpur",
                 "country": "Malaysia",
                 "iata": "KUL",
-                "icao": "WMKK",
                 "region": "APAC"
             }
         },
@@ -1422,7 +1348,6 @@
                 "city": "Penang",
                 "country": "Malaysia",
                 "iata": "PEN",
-                "icao": "WMKP",
                 "region": "APAC"
             }
         },
@@ -1441,7 +1366,6 @@
                 "city": "Singapore",
                 "country": "Singapore",
                 "iata": "SIN",
-                "icao": "WSSS",
                 "region": "APAC"
             }
         },
@@ -1460,7 +1384,6 @@
                 "city": "Sydney",
                 "country": "Australia",
                 "iata": "SYD",
-                "icao": "YSSY",
                 "region": "APAC"
             }
         },
@@ -1479,7 +1402,6 @@
                 "city": "Beijing",
                 "country": "China",
                 "iata": "PEK",
-                "icao": "ZBAA",
                 "region": "APAC"
             }
         },
@@ -1498,7 +1420,6 @@
                 "city": "Guangzhou",
                 "country": "China",
                 "iata": "CAN",
-                "icao": "ZGGG",
                 "region": "APAC"
             }
         },
@@ -1517,7 +1438,6 @@
                 "city": "Shanghai",
                 "country": "China",
                 "iata": "PVG",
-                "icao": "ZSPD",
                 "region": "APAC"
             }
         },
@@ -1536,7 +1456,6 @@
                 "city": "Boston",
                 "country": "United States",
                 "iata": "BOS",
-                "icao": "KBOS",
                 "region": "US Domestic"
             }
         },
@@ -1555,7 +1474,6 @@
                 "city": "Mobile",
                 "country": "United States",
                 "iata": "BFM",
-                "icao": "KBFM",
                 "region": "US Domestic"
             }
         },
@@ -1574,7 +1492,6 @@
                 "city": "Oakland",
                 "country": "United States",
                 "iata": "OAK",
-                "icao": "KOAK",
                 "region": "US Domestic"
             }
         },
@@ -1593,7 +1510,6 @@
                 "city": "Omaha",
                 "country": "United States",
                 "iata": "OMA",
-                "icao": "KOMA",
                 "region": "US Domestic"
             }
         },
@@ -1612,7 +1528,6 @@
                 "city": "Wichita",
                 "country": "United States",
                 "iata": "ICT",
-                "icao": "KICT",
                 "region": "US Domestic"
             }
         },
@@ -1631,7 +1546,6 @@
                 "city": "Kansas City",
                 "country": "United States",
                 "iata": "MCI",
-                "icao": "KMCI",
                 "region": "US Domestic"
             }
         },
@@ -1650,7 +1564,6 @@
                 "city": "Madison",
                 "country": "United States",
                 "iata": "MSN",
-                "icao": "KMSN",
                 "region": "US Domestic"
             }
         },
@@ -1669,7 +1582,6 @@
                 "city": "Phoenix",
                 "country": "United States",
                 "iata": "PHX",
-                "icao": "KPHX",
                 "region": "US Domestic"
             }
         },
@@ -1688,7 +1600,6 @@
                 "city": "Bangor",
                 "country": "United States",
                 "iata": "BGR",
-                "icao": "KBGR",
                 "region": "US Domestic"
             }
         },
@@ -1707,7 +1618,6 @@
                 "city": "Spokane",
                 "country": "United States",
                 "iata": "GEG",
-                "icao": "KGEG",
                 "region": "US Domestic"
             }
         },
@@ -1726,7 +1636,6 @@
                 "city": "San Francisco",
                 "country": "United States",
                 "iata": "SFO",
-                "icao": "KSFO",
                 "region": "US Domestic"
             }
         },
@@ -1745,7 +1654,6 @@
                 "city": "Memphis",
                 "country": "United States",
                 "iata": "MEM",
-                "icao": "KMEM",
                 "region": "US Domestic"
             }
         },
@@ -1764,7 +1672,6 @@
                 "city": "Fort Bragg",
                 "country": "United States",
                 "iata": "POB",
-                "icao": "KPOB",
                 "region": "US Domestic"
             }
         },
@@ -1783,7 +1690,6 @@
                 "city": "Los Angeles",
                 "country": "United States",
                 "iata": "LAX",
-                "icao": "KLAX",
                 "region": "US Domestic"
             }
         },
@@ -1802,7 +1708,6 @@
                 "city": "Cleveland",
                 "country": "United States",
                 "iata": "CLE",
-                "icao": "KCLE",
                 "region": "US Domestic"
             }
         },
@@ -1821,7 +1726,6 @@
                 "city": "Dover",
                 "country": "United States",
                 "iata": "DOV",
-                "icao": "KDOV",
                 "region": "US Domestic"
             }
         },
@@ -1840,7 +1744,6 @@
                 "city": "Cincinnati",
                 "country": "United States",
                 "iata": "CVG",
-                "icao": "KCVG",
                 "region": "US Domestic"
             }
         },
@@ -1859,7 +1762,6 @@
                 "city": "Lafayette",
                 "country": "United States",
                 "iata": "LFT",
-                "icao": "KLFT",
                 "region": "US Domestic"
             }
         },
@@ -1878,7 +1780,6 @@
                 "city": "Newark",
                 "country": "United States",
                 "iata": "EWR",
-                "icao": "KEWR",
                 "region": "US Domestic"
             }
         },
@@ -1897,7 +1798,6 @@
                 "city": "Boise",
                 "country": "United States",
                 "iata": "BOI",
-                "icao": "KBOI",
                 "region": "US Domestic"
             }
         },
@@ -1916,7 +1816,6 @@
                 "city": "Miramar",
                 "country": "United States",
                 "iata": "NKX",
-                "icao": "KNKX",
                 "region": "US Domestic"
             }
         },
@@ -1935,7 +1834,6 @@
                 "city": "Fort Lauderdale",
                 "country": "United States",
                 "iata": "FLL",
-                "icao": "KFLL",
                 "region": "US Domestic"
             }
         },
@@ -1954,7 +1852,6 @@
                 "city": "Salt Lake City",
                 "country": "United States",
                 "iata": "SLC",
-                "icao": "KSLC",
                 "region": "US Domestic"
             }
         },
@@ -1973,7 +1870,6 @@
                 "city": "Harrisburg",
                 "country": "United States",
                 "iata": "MDT",
-                "icao": "KMDT",
                 "region": "US Domestic"
             }
         },
@@ -1992,7 +1888,6 @@
                 "city": "Houston",
                 "country": "United States",
                 "iata": "IAH",
-                "icao": "KIAH",
                 "region": "US Domestic"
             }
         },
@@ -2011,7 +1906,6 @@
                 "city": "El Paso",
                 "country": "United States",
                 "iata": "ELP",
-                "icao": "KELP",
                 "region": "US Domestic"
             }
         },
@@ -2030,7 +1924,6 @@
                 "city": "Harlingen",
                 "country": "United States",
                 "iata": "HRL",
-                "icao": "KHRL",
                 "region": "US Domestic"
             }
         },
@@ -2049,7 +1942,6 @@
                 "city": "Columbia",
                 "country": "United States",
                 "iata": "CAE",
-                "icao": "KCAE",
                 "region": "US Domestic"
             }
         },
@@ -2068,7 +1960,6 @@
                 "city": "Pittsburgh",
                 "country": "United States",
                 "iata": "PIT",
-                "icao": "KPIT",
                 "region": "US Domestic"
             }
         },
@@ -2087,7 +1978,6 @@
                 "city": "Miami",
                 "country": "United States",
                 "iata": "MIA",
-                "icao": "KMIA",
                 "region": "US Domestic"
             }
         },
@@ -2106,7 +1996,6 @@
                 "city": "Seattle",
                 "country": "United States",
                 "iata": "SEA",
-                "icao": "KSEA",
                 "region": "US Domestic"
             }
         },
@@ -2125,7 +2014,6 @@
                 "city": "Chattanooga",
                 "country": "United States",
                 "iata": "CHA",
-                "icao": "KCHA",
                 "region": "US Domestic"
             }
         },
@@ -2144,7 +2032,6 @@
                 "city": "Indianapolis",
                 "country": "United States",
                 "iata": "IND",
-                "icao": "KIND",
                 "region": "US Domestic"
             }
         },
@@ -2163,7 +2050,6 @@
                 "city": "Richmond",
                 "country": "United States",
                 "iata": "RIC",
-                "icao": "KRIC",
                 "region": "US Domestic"
             }
         },
@@ -2182,7 +2068,6 @@
                 "city": "Norfolk",
                 "country": "United States",
                 "iata": "ORF",
-                "icao": "KORF",
                 "region": "US Domestic"
             }
         },
@@ -2201,7 +2086,6 @@
                 "city": "Savannah",
                 "country": "United States",
                 "iata": "SAV",
-                "icao": "KSAV",
                 "region": "US Domestic"
             }
         },
@@ -2220,7 +2104,6 @@
                 "city": "San Antonio",
                 "country": "United States",
                 "iata": "SAT",
-                "icao": "KSAT",
                 "region": "US Domestic"
             }
         },
@@ -2239,7 +2122,6 @@
                 "city": "Rochester",
                 "country": "United States",
                 "iata": "ROC",
-                "icao": "KROC",
                 "region": "US Domestic"
             }
         },
@@ -2258,7 +2140,6 @@
                 "city": "Raleigh-durham",
                 "country": "United States",
                 "iata": "RDU",
-                "icao": "KRDU",
                 "region": "US Domestic"
             }
         },
@@ -2277,7 +2158,6 @@
                 "city": "Dayton",
                 "country": "United States",
                 "iata": "DAY",
-                "icao": "KDAY",
                 "region": "US Domestic"
             }
         },
@@ -2296,7 +2176,6 @@
                 "city": "Kenai",
                 "country": "United States",
                 "iata": "ENA",
-                "icao": "PAEN",
                 "region": "US Domestic"
             }
         },
@@ -2315,7 +2194,6 @@
                 "city": "Tucson",
                 "country": "United States",
                 "iata": "TUS",
-                "icao": "KTUS",
                 "region": "US Domestic"
             }
         },
@@ -2334,7 +2212,6 @@
                 "city": "Providence",
                 "country": "United States",
                 "iata": "PVD",
-                "icao": "KPVD",
                 "region": "US Domestic"
             }
         },
@@ -2353,7 +2230,6 @@
                 "city": "Burbank",
                 "country": "United States",
                 "iata": "BUR",
-                "icao": "KBUR",
                 "region": "US Domestic"
             }
         },
@@ -2372,7 +2248,6 @@
                 "city": "Detroit",
                 "country": "United States",
                 "iata": "DTW",
-                "icao": "KDTW",
                 "region": "US Domestic"
             }
         },
@@ -2391,7 +2266,6 @@
                 "city": "Tampa",
                 "country": "United States",
                 "iata": "TPA",
-                "icao": "KTPA",
                 "region": "US Domestic"
             }
         },
@@ -2410,7 +2284,6 @@
                 "city": "Newburgh",
                 "country": "United States",
                 "iata": "SWF",
-                "icao": "KSWF",
                 "region": "US Domestic"
             }
         },
@@ -2429,7 +2302,6 @@
                 "city": "Dallas-Fort Worth",
                 "country": "United States",
                 "iata": "DFW",
-                "icao": "KDFW",
                 "region": "US Domestic"
             }
         },
@@ -2448,7 +2320,6 @@
                 "city": "Austin",
                 "country": "United States",
                 "iata": "AUS",
-                "icao": "KAUS",
                 "region": "US Domestic"
             }
         },
@@ -2467,7 +2338,6 @@
                 "city": "Columbus",
                 "country": "United States",
                 "iata": "LCK",
-                "icao": "KLCK",
                 "region": "US Domestic"
             }
         },
@@ -2486,7 +2356,6 @@
                 "city": "Knoxville",
                 "country": "United States",
                 "iata": "TYS",
-                "icao": "KTYS",
                 "region": "US Domestic"
             }
         },
@@ -2505,7 +2374,6 @@
                 "city": "St. Louis",
                 "country": "United States",
                 "iata": "STL",
-                "icao": "KSTL",
                 "region": "US Domestic"
             }
         },
@@ -2524,7 +2392,6 @@
                 "city": "Atlanta",
                 "country": "United States",
                 "iata": "ATL",
-                "icao": "KATL",
                 "region": "US Domestic"
             }
         },
@@ -2543,7 +2410,6 @@
                 "city": "Nashville",
                 "country": "United States",
                 "iata": "BNA",
-                "icao": "KBNA",
                 "region": "US Domestic"
             }
         },
@@ -2562,7 +2428,6 @@
                 "city": "Laredo",
                 "country": "United States",
                 "iata": "LRD",
-                "icao": "KLRD",
                 "region": "US Domestic"
             }
         },
@@ -2581,7 +2446,6 @@
                 "city": "Tallahassee",
                 "country": "United States",
                 "iata": "TLH",
-                "icao": "KTLH",
                 "region": "US Domestic"
             }
         },
@@ -2600,7 +2464,6 @@
                 "city": "Jacksonville",
                 "country": "United States",
                 "iata": "JAX",
-                "icao": "KJAX",
                 "region": "US Domestic"
             }
         },
@@ -2619,7 +2482,6 @@
                 "city": "Durango",
                 "country": "United States",
                 "iata": "DRO",
-                "icao": "KDRO",
                 "region": "US Domestic"
             }
         },
@@ -2638,7 +2500,6 @@
                 "city": "Washington",
                 "country": "United States",
                 "iata": "IAD",
-                "icao": "KIAD",
                 "region": "US Domestic"
             }
         },
@@ -2657,7 +2518,6 @@
                 "city": "Milwaukee",
                 "country": "United States",
                 "iata": "MKE",
-                "icao": "KMKE",
                 "region": "US Domestic"
             }
         },
@@ -2676,7 +2536,6 @@
                 "city": "Portland",
                 "country": "United States",
                 "iata": "PDX",
-                "icao": "KPDX",
                 "region": "US Domestic"
             }
         },
@@ -2695,7 +2554,6 @@
                 "city": "West Palm Beach",
                 "country": "United States",
                 "iata": "PBI",
-                "icao": "KPBI",
                 "region": "US Domestic"
             }
         },
@@ -2714,7 +2572,6 @@
                 "city": "Honolulu",
                 "country": "United States",
                 "iata": "HNL",
-                "icao": "PHNL",
                 "region": "US Domestic"
             }
         },
@@ -2733,7 +2590,6 @@
                 "city": "Des Moines",
                 "country": "United States",
                 "iata": "DSM",
-                "icao": "KDSM",
                 "region": "US Domestic"
             }
         },
@@ -2752,7 +2608,6 @@
                 "city": "San Diego",
                 "country": "United States",
                 "iata": "SAN",
-                "icao": "KSAN",
                 "region": "US Domestic"
             }
         },
@@ -2771,7 +2626,6 @@
                 "city": "Ontario",
                 "country": "United States",
                 "iata": "ONT",
-                "icao": "KONT",
                 "region": "US Domestic"
             }
         },
@@ -2790,7 +2644,6 @@
                 "city": "Dothan",
                 "country": "United States",
                 "iata": "DHN",
-                "icao": "KDHN",
                 "region": "US Domestic"
             }
         },
@@ -2809,7 +2662,6 @@
                 "city": "Syracuse",
                 "country": "United States",
                 "iata": "SYR",
-                "icao": "KSYR",
                 "region": "US Domestic"
             }
         },
@@ -2828,7 +2680,6 @@
                 "city": "San Jose",
                 "country": "United States",
                 "iata": "SJC",
-                "icao": "KSJC",
                 "region": "US Domestic"
             }
         },
@@ -2847,7 +2698,6 @@
                 "city": "Denver",
                 "country": "United States",
                 "iata": "DEN",
-                "icao": "KDEN",
                 "region": "US Domestic"
             }
         },
@@ -2866,7 +2716,6 @@
                 "city": "Philadelphia",
                 "country": "United States",
                 "iata": "PHL",
-                "icao": "KPHL",
                 "region": "US Domestic"
             }
         },
@@ -2885,7 +2734,6 @@
                 "city": "Anchorage",
                 "country": "United States",
                 "iata": "ANC",
-                "icao": "PANC",
                 "region": "US Domestic"
             }
         },
@@ -2904,7 +2752,6 @@
                 "city": "Fort Myers",
                 "country": "United States",
                 "iata": "RSW",
-                "icao": "KRSW",
                 "region": "US Domestic"
             }
         },
@@ -2923,7 +2770,6 @@
                 "city": "New York",
                 "country": "United States",
                 "iata": "JFK",
-                "icao": "KJFK",
                 "region": "US Domestic"
             }
         },
@@ -2942,7 +2788,6 @@
                 "city": "Charleston",
                 "country": "United States",
                 "iata": "CHS",
-                "icao": "KCHS",
                 "region": "US Domestic"
             }
         },
@@ -2961,7 +2806,6 @@
                 "city": "Reno",
                 "country": "United States",
                 "iata": "RNO",
-                "icao": "KRNO",
                 "region": "US Domestic"
             }
         },
@@ -2980,7 +2824,6 @@
                 "city": "Birmingham",
                 "country": "United States",
                 "iata": "BHM",
-                "icao": "KBHM",
                 "region": "US Domestic"
             }
         },
@@ -2999,7 +2842,6 @@
                 "city": "Sacramento",
                 "country": "United States",
                 "iata": "SMF",
-                "icao": "KSMF",
                 "region": "US Domestic"
             }
         },
@@ -3018,7 +2860,6 @@
                 "city": "Colorado Springs",
                 "country": "United States",
                 "iata": "COS",
-                "icao": "KCOS",
                 "region": "US Domestic"
             }
         },
@@ -3037,7 +2878,6 @@
                 "city": "Buffalo",
                 "country": "United States",
                 "iata": "BUF",
-                "icao": "KBUF",
                 "region": "US Domestic"
             }
         },
@@ -3056,7 +2896,6 @@
                 "city": "Everett",
                 "country": "United States",
                 "iata": "PAE",
-                "icao": "KPAE",
                 "region": "US Domestic"
             }
         },
@@ -3075,7 +2914,6 @@
                 "city": "Windsor Locks",
                 "country": "United States",
                 "iata": "BDL",
-                "icao": "KBDL",
                 "region": "US Domestic"
             }
         },
@@ -3094,7 +2932,6 @@
                 "city": "Norfolk",
                 "country": "United States",
                 "iata": "NGU",
-                "icao": "KNGU",
                 "region": "US Domestic"
             }
         },
@@ -3113,7 +2950,6 @@
                 "city": "Chicago",
                 "country": "United States",
                 "iata": "ORD",
-                "icao": "KORD",
                 "region": "US Domestic"
             }
         },
@@ -3132,7 +2968,6 @@
                 "city": "Fairbanks",
                 "country": "United States",
                 "iata": "FAI",
-                "icao": "PAFA",
                 "region": "US Domestic"
             }
         },
@@ -3151,7 +2986,6 @@
                 "city": "Baltimore",
                 "country": "United States",
                 "iata": "BWI",
-                "icao": "KBWI",
                 "region": "US Domestic"
             }
         },
@@ -3170,7 +3004,6 @@
                 "city": "Tulsa",
                 "country": "United States",
                 "iata": "TUL",
-                "icao": "KTUL",
                 "region": "US Domestic"
             }
         },
@@ -3189,7 +3022,6 @@
                 "city": "Minneapolis",
                 "country": "United States",
                 "iata": "MSP",
-                "icao": "KMSP",
                 "region": "US Domestic"
             }
         },
@@ -3208,7 +3040,6 @@
                 "city": "New Orleans",
                 "country": "United States",
                 "iata": "MSY",
-                "icao": "KMSY",
                 "region": "US Domestic"
             }
         },
@@ -3227,7 +3058,6 @@
                 "city": "Portland",
                 "country": "United States",
                 "iata": "PWM",
-                "icao": "KPWM",
                 "region": "US Domestic"
             }
         },
@@ -3246,7 +3076,6 @@
                 "city": "Albany",
                 "country": "United States",
                 "iata": "ALB",
-                "icao": "KALB",
                 "region": "US Domestic"
             }
         },
@@ -3265,7 +3094,6 @@
                 "city": "Santa Ana",
                 "country": "United States",
                 "iata": "SNA",
-                "icao": "KSNA",
                 "region": "US Domestic"
             }
         },
@@ -3284,7 +3112,6 @@
                 "city": "Casper",
                 "country": "United States",
                 "iata": "CPR",
-                "icao": "KCPR",
                 "region": "US Domestic"
             }
         },
@@ -3303,7 +3130,6 @@
                 "city": "Charlotte",
                 "country": "United States",
                 "iata": "CLT",
-                "icao": "KCLT",
                 "region": "US Domestic"
             }
         },
@@ -3322,7 +3148,6 @@
                 "city": "Orlando",
                 "country": "United States",
                 "iata": "MCO",
-                "icao": "KMCO",
                 "region": "US Domestic"
             }
         },
@@ -3341,7 +3166,6 @@
                 "city": "Great Falls",
                 "country": "United States",
                 "iata": "GTF",
-                "icao": "KGTF",
                 "region": "US Domestic"
             }
         },
@@ -3360,7 +3184,6 @@
                 "city": "Bangkok",
                 "country": "Thailand",
                 "iata": "BKK",
-                "icao": "VTBS",
                 "region": "APAC"
             }
         },
@@ -3379,7 +3202,6 @@
                 "city": "Athens",
                 "country": "Greece",
                 "iata": "ATH",
-                "icao": "LGAV",
                 "region": "EMEA"
             }
         },
@@ -3398,7 +3220,6 @@
                 "city": "Kaunas",
                 "country": "Lithuania",
                 "iata": "KUN",
-                "icao": "EYKA",
                 "region": "EMEA"
             }
         },
@@ -3417,7 +3238,6 @@
                 "city": "Osaka",
                 "country": "Japan",
                 "iata": "KIX",
-                "icao": "RJBB",
                 "region": "APAC"
             }
         },
@@ -3436,7 +3256,6 @@
                 "city": "Greensboro",
                 "country": "United States",
                 "iata": "GSO",
-                "icao": "KGSO",
                 "region": "US Domestic"
             }
         },
@@ -3455,7 +3274,6 @@
                 "city": "Sioux Falls",
                 "country": "United States",
                 "iata": "FSD",
-                "icao": "KFSD",
                 "region": "US Domestic"
             }
         },
@@ -3474,7 +3292,6 @@
                 "city": "Louisville",
                 "country": "United States",
                 "iata": "SDF",
-                "icao": "KSDF",
                 "region": "US Domestic"
             }
         },
@@ -3493,7 +3310,6 @@
                 "city": "Roanoke VA",
                 "country": "United States",
                 "iata": "ROA",
-                "icao": "KROA",
                 "region": "US Domestic"
             }
         },
@@ -3512,7 +3328,6 @@
                 "city": "Albuquerque",
                 "country": "United States",
                 "iata": "ABQ",
-                "icao": "KABQ",
                 "region": "US Domestic"
             }
         },
@@ -3531,7 +3346,6 @@
                 "city": "Billings",
                 "country": "United States",
                 "iata": "BIL",
-                "icao": "KBIL",
                 "region": "US Domestic"
             }
         },
@@ -3550,7 +3364,6 @@
                 "city": "Greenville",
                 "country": "United States",
                 "iata": "GSP",
-                "icao": "KGSP",
                 "region": "US Domestic"
             }
         },
@@ -3569,7 +3382,6 @@
                 "city": "Bloomington",
                 "country": "United States",
                 "iata": "BMI",
-                "icao": "KBMI",
                 "region": "US Domestic"
             }
         },
@@ -3588,7 +3400,6 @@
                 "city": "Fort Wayne",
                 "country": "United States",
                 "iata": "FWA",
-                "icao": "KFWA",
                 "region": "US Domestic"
             }
         },
@@ -3607,7 +3418,6 @@
                 "city": "Cedar Rapids",
                 "country": "United States",
                 "iata": "CID",
-                "icao": "KCID",
                 "region": "US Domestic"
             }
         },
@@ -3626,7 +3436,6 @@
                 "city": "Appleton",
                 "country": "United States",
                 "iata": "ATW",
-                "icao": "KATW",
                 "region": "US Domestic"
             }
         },
@@ -3645,7 +3454,6 @@
                 "city": "Rochester",
                 "country": "United States",
                 "iata": "RST",
-                "icao": "KRST",
                 "region": "US Domestic"
             }
         },
@@ -3664,7 +3472,6 @@
                 "city": "Grand Junction",
                 "country": "United States",
                 "iata": "GJT",
-                "icao": "KGJT",
                 "region": "US Domestic"
             }
         },
@@ -3683,7 +3490,6 @@
                 "city": "Flint",
                 "country": "United States",
                 "iata": "FNT",
-                "icao": "KFNT",
                 "region": "US Domestic"
             }
         },
@@ -3702,7 +3508,6 @@
                 "city": "Angeles City",
                 "country": "Philippines",
                 "iata": "CRK",
-                "icao": "RPLC",
                 "region": "APAC"
             }
         },
@@ -3721,7 +3526,6 @@
                 "city": "Fargo",
                 "country": "United States",
                 "iata": "FAR",
-                "icao": "KFAR",
                 "region": "US Domestic"
             }
         },
@@ -3740,7 +3544,6 @@
                 "city": "Springfield",
                 "country": "United States",
                 "iata": "SGF",
-                "icao": "KSGF",
                 "region": "US Domestic"
             }
         },
@@ -3759,7 +3562,6 @@
                 "city": "Allentown",
                 "country": "United States",
                 "iata": "ABE",
-                "icao": "KABE",
                 "region": "US Domestic"
             }
         },
@@ -3778,7 +3580,6 @@
                 "city": "South Bend",
                 "country": "United States",
                 "iata": "SBN",
-                "icao": "KSBN",
                 "region": "US Domestic"
             }
         },
@@ -3797,7 +3598,6 @@
                 "city": "Arcata CA",
                 "country": "United States",
                 "iata": "ACV",
-                "icao": "KACV",
                 "region": "US Domestic"
             }
         },
@@ -3816,7 +3616,6 @@
                 "city": "Huntington",
                 "country": "United States",
                 "iata": "HTS",
-                "icao": "KHTS",
                 "region": "US Domestic"
             }
         },
@@ -3835,7 +3634,6 @@
                 "city": "San Bernardino",
                 "country": "United States",
                 "iata": "SBD",
-                "icao": "KSBD",
                 "region": "US Domestic"
             }
         },
@@ -3854,7 +3652,6 @@
                 "city": "Fort Worth",
                 "country": "United States",
                 "iata": "AFW",
-                "icao": "KAFW",
                 "region": "US Domestic"
             }
         }
